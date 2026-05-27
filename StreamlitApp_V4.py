@@ -452,4 +452,4 @@ elif page == "🧪 Test Model":
 
 # ---------- FOOTER ----------
 st.divider()
-st.caption("© 2025 ChurnShield AI – Built with ❤️ using Streamlit, CatBoost, XGBoost, LightGBM, and SHAP.")
+st.caption("© 2026 ChurnShield AI – Built with ❤️ using Streamlit, CatBoost, XGBoost, LightGBM, and SHAP.")
